@@ -50,7 +50,7 @@ body {
   background: var(--pale-blue) url("/images/pattern-background-desktop.svg")
     no-repeat left top;
   background-size: contain;
-  min-height: 100vh;
+  min-height: 98vh;
 }
 
 /* Card */
@@ -124,10 +124,6 @@ body {
   font-size: 14px;
   margin-top: 4px;
 }
-/*.card__plan .card__plan--text span {
-  font-weight: 700;
-  color: var(--dark-blue);
-}*/
 
 .card__plan .card__plan--link {
   cursor: pointer;
